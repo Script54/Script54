@@ -1,4 +1,4 @@
-<img src=(https://media3.giphy.com/media/MK9PPnogQDJNZQLUA9/giphy.gif)>
+(https://media3.giphy.com/media/MK9PPnogQDJNZQLUA9/giphy.gif)
 
 # 💫 About Me:
 🔭 I'm high school student<br>💬 Python and Lua re-engineer<br>⚡ Beginner Web Developer
