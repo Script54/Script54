@@ -1,4 +1,5 @@
 <img src="https://i.hizliresim.com/gl3d0na.gif" alt="Scriptt" width="35%">
+
 # 💫 About Me:
 🔭 I'm high school student<br>💬 Python and Lua re-engineer<br>⚡ Beginner Web Developer
 
