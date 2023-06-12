@@ -1,4 +1,4 @@
-(https://media3.giphy.com/media/MK9PPnogQDJNZQLUA9/giphy.gif)
+[url=https://www.hizliresim.com/gl3d0na][img]https://i.hizliresim.com/gl3d0na.gif[/img][/url]
 
 # 💫 About Me:
 🔭 I'm high school student<br>💬 Python and Lua re-engineer<br>⚡ Beginner Web Developer
